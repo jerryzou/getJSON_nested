@@ -1,0 +1,7 @@
+{
+  "week": "51st of 2011",
+  "games": [
+    { "url": "game1.json" },
+    { "url": "game2.json" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2",
+  "teams": [
+    {
+      "name": "Black",
+      "score": 30
+    },
+    {
+      "name": "White",
+      "score": 40
+    }
+  ]
+}
